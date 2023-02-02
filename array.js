@@ -15,7 +15,7 @@ console.log(isEmpty())
 
 function isfull() {
     
-    let length = 6
+    let length = 7
     for(let item in two){
         length++
     }
